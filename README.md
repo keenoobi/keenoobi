@@ -1,7 +1,6 @@
-<h1 align="center">Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<!-- <h1 align="center">Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'am%20a%20Golang%20Developer;Passionate%20about%20coding;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=00ADD8&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20World!👋;I'am%20a%20Golang%20Developer;Passionate%20about%20coding;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=00ADD8&vCenter=true&size=45%22"></a>
 </p>
 
 
