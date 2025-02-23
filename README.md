@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20World!👋;I'am%20a%20Golang%20Developer;Passionate%20about%20coding;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=00ADD8&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/keenoobi"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20World!%20👋;I'am%20a%20Golang%20Developer;Passionate%20about%20coding;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=00ADD8&vCenter=true&size=45%22"></a>
 </p>
 
 
@@ -16,6 +16,7 @@
 ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&style=plastic)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=plastic)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=plastic)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&style=plastic)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=plastic)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=plastic)
 
